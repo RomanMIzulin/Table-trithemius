@@ -1,0 +1,4 @@
+The program encrypts and decrypts input from special form above, input from a file(the highest priority)  using key from special form only if there is no key ina file.
+The program can process many texts with keys with output in outputMulti.txt.
+It should be in .csv file in enctypt case "text,key" and "key, text" opposite.
+Save button saves in output.txt
